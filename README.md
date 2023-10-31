@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD Zanea Alam Jahid</h1>
-<h3 align="center">A passionate javascript developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
 
 <!-- - 🔭 I’m currently working on [a tours and travle web app development project](https://github.com/jahid114/letsgoTourApi) -->
 
