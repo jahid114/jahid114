@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm MD Zanea Alam Jahid</h1>
-<h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
+<h3 align="center">A passionate Backend Engineer from Bangladesh</h3>
 
-<p>Assalamualaikum, 
-My name is MD Zanea Alam Jahid, and I’m a Backend Engineer from Bangladesh. With almost one and a half years of experience, I specialize in building secure, scalable software. I am building enterprise solutions for in-house operations, B2B brands, and suppliers.
-My passion for backend development stems from solving real-world problems with technology. I have hands-on experience with Java, Spring Boot, Python, JavaScript, and TypeScript, and I’m proficient in building robust RESTful APIs and efficient database schemas. In my current role, I’ve worked on key modules like CRM, inventory management, and supplier platforms, delivering high-performance solutions that improve business operations.
-Alongside Java, I’m skilled with Node.js, Express, and NestJS, allowing me to work across tech stacks."
-Recently, I’ve become passionate about DevOps and am actively learning DevOps tools and practices. I’m excited about building cloud-native applications, leveraging the power of containers, Kubernetes, and CI/CD pipelines to ensure smooth deployment and scalability. This is an area I’m eager to dive deeper into as I continue to grow my expertise."
+<p> 
+I have almost one and a half years of experience, I specialize in building secure, scalable software. I build enterprise solutions for in-house operations, B2B brands, and suppliers.
+My passion for backend development stems from solving real-world problems with technology. I have hands-on experience with <b>Java, Spring Boot, Spring Data JPA, Spring Security, PostgreSQL, JavaScript, TypeScript, and so on</b>, and I’m proficient in building robust RESTful APIs and efficient database schemas. I’ve worked on enterprise solutions key modules like CRM, inventory management, and supplier platforms, trend research in my current role, delivering high-performance solutions that improve business operations.<br>
+Alongside Java, I’m skilled with <br>Node.js, Express, React and NestJS<br>, allowing me to work across tech stacks.<br>
+Recently, I’ve become passionate about DevOps and am actively learning DevOps tools and practices. I’m excited about building cloud-native applications, leveraging the power of containers, Kubernetes, and CI/CD pipelines to ensure smooth deployment and scalability. This is an area I’m eager to dive deeper into as I continue to grow my expertise.<br>
 I thrive in collaborative environments, working with front-end developers, QA engineers, and project managers to ensure seamless project delivery. My experience in agile teams has enabled me to contribute effectively to the entire development lifecycle.
-A fun fact about me is that I enjoy solving coding challenges on Hackerrank and Leetcode, which keeps my problem-solving skills sharp.
+A fun fact about me is that I enjoy solving coding challenges on Hackerrank and Leetcode, which sharpens my problem-solving skills.<br>
 I’m currently open to remote opportunities, where I can apply my skills in backend development, DevOps, and cloud-native technologies. Thank you for taking the time to get to know me, and I look forward to connecting!</p>
 <!-- - 🔭 I’m currently working on [a tours and travel web app development project](https://github.com/jahid114/letsgoTourApi) -->
 
