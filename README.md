@@ -2,12 +2,12 @@
 <h3 align="center">A passionate Backend Engineer from Bangladesh</h3>
 
 <p> 
-I have almost one and a half years of experience, I specialize in building secure, scalable software. I build enterprise solutions for in-house operations, B2B brands, and suppliers.
-My passion for backend development stems from solving real-world problems with technology. I have hands-on experience with <b>Java, Spring Boot, Spring Data JPA, Spring Security, PostgreSQL, JavaScript, TypeScript, and so on</b>, and I’m proficient in building robust RESTful APIs and efficient database schemas. I’ve worked on enterprise solutions key modules like CRM, inventory management, and supplier platforms, trend research in my current role, delivering high-performance solutions that improve business operations.<br>
-Alongside Java, I’m skilled with <b>Node.js, Express, React and NestJS</b>, allowing me to work across tech stacks.<br>
+I have almost one and a half years of experience, I specialize in building secure, scalable software. I am currently building enterprise solutions for in-house operations, B2B brands, and suppliers.
+My passion for backend development stems from solving real-world problems with technology. I have hands-on experience with <b><i>Java, Spring Boot, Spring Data JPA, Spring Security, PostgreSQL, JavaScript, TypeScript</i>, and so on</b>, and I’m proficient in building robust RESTful APIs and efficient database schemas. I’ve worked on enterprise solutions key modules like CRM, inventory management, order management, supplier platforms, trend research in my current role, delivering high-performance solutions that improve business operations.<br>
+Alongside Java, I’m skilled with <b><i>Node.js, Express, React, NestJS and TypeOrm</i></b>, allowing me to work across tech stacks.<br>
 Recently, I’ve become passionate about DevOps and am actively learning DevOps tools and practices. I’m excited about building cloud-native applications, leveraging the power of containers, Kubernetes, and CI/CD pipelines to ensure smooth deployment and scalability. This is an area I’m eager to dive deeper into as I continue to grow my expertise.<br>
 I thrive in collaborative environments, working with front-end developers, QA engineers, and project managers to ensure seamless project delivery. My experience in agile teams has enabled me to contribute effectively to the entire development lifecycle.
-A fun fact about me is that I enjoy solving coding challenges on Hackerrank and Leetcode, which sharpens my problem-solving skills.<br>
+I like to solve coding challenges on Hackerrank and Leetcode and liek to read technical books, which sharpens my problem-solving skills. Also exploring new technology & building solutions out of thrills me <br>
 I’m currently open to remote opportunities, where I can apply my skills in backend development, DevOps, and cloud-native technologies. Thank you for taking the time to get to know me, and I look forward to connecting!</p>
 <!-- - 🔭 I’m currently working on [a tours and travel web app development project](https://github.com/jahid114/letsgoTourApi) -->
 
