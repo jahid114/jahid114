@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend Engineer from Bangladesh</h3>
 
 <p> 
-I have almost one and a half years of experience, I specialize in building secure, scalable software. I am currently building enterprise solutions for in-house operations, B2B brands, and suppliers.
+I have almost one and a half years of experience, I specialize in building secure, scalable software. I am currently building enterprise solutions for in-house operations, B2B fashion brands, and suppliers.
 My passion for backend development stems from solving real-world problems with technology. I have hands-on experience with <b><i>Java, Spring Boot, Spring Data JPA, Spring Security, PostgreSQL, JavaScript, TypeScript</i>, and so on</b>, and I’m proficient in building robust RESTful APIs and efficient database schemas. I’ve worked on enterprise solutions key modules like CRM, inventory management, order management, supplier platforms, trend research in my current role, delivering high-performance solutions that improve business operations.<br>
 Alongside Java, I’m skilled with <b><i>Node.js, Express, React, NestJS and TypeOrm</i></b>, allowing me to work across tech stacks.<br>
 Recently, I’ve become passionate about DevOps and am actively learning DevOps tools and practices. I’m excited about building cloud-native applications, leveraging the power of containers, Kubernetes, and CI/CD pipelines to ensure smooth deployment and scalability. This is an area I’m eager to dive deeper into as I continue to grow my expertise.<br>
