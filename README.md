@@ -24,3 +24,6 @@ I’m currently open to remote opportunities, where I can apply my skills in bac
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahid114&" alt="jahid114" /></p>
 
+<h3 align="left">Overview from Roadmap.sh:</h3>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/664b2ba7bc68b74d9bf2db34?variant=light" alt="roadmap.sh"/></a>
+
