@@ -1,15 +1,32 @@
 <h1 align="center">Hi 👋, I'm MD Zanea Alam Jahid</h1>
-<h3 align="center">A passionate Backend Engineer from Bangladesh</h3>
+<h3 align="center">Software Engineer — Backend & Full-stack | Java · Spring Boot · Cloud & DevOps</h3>
 
-<p style="text-align: justify;"> 
-I have more than one and a half years of experience, I specialize in building secure, scalable software. I build enterprise solutions for in-house operations, B2B fashion brands, and suppliers.
-My passion for backend development stems from solving real-world problems with technology. I have hands-on experience with <b><i>Java, Spring Boot, Spring Data JPA, Spring Security, PostgreSQL, JavaScript, TypeScript</i>, and so on</b>, and I’m proficient in building robust RESTful APIs and efficient database schemas. I’ve worked on enterprise solutions key modules like CRM, inventory management, order management, supplier platforms, and trend research in my current role, delivering high-performance solutions that improve business operations.<br>
-Alongside Java, I’m skilled with <b><i>Node.js, Express, React, NestJS, and TypeOrm</i></b>, allowing me to work across tech stacks.<br>
-Recently, I’ve become passionate about DevOps and am actively learning DevOps tools and practices. I’m excited about building cloud-native applications, leveraging the power of containers, Kubernetes, and CI/CD pipelines to ensure smooth deployment and scalability. This is an area I’m eager to dive deeper into as I continue to grow my expertise.<br>
-I thrive in collaborative environments, working with front-end developers, QA engineers, and project managers to ensure seamless project delivery. My experience in agile teams has enabled me to contribute effectively to the entire development lifecycle.
-I like to solve coding challenges on Hackerrank and Leetcode and like to read technical books, which sharpens my problem-solving skills. Also exploring new technology & building solutions out of thrills me <br>
-I’m currently open to remote opportunities, where I can apply my skills in backend development, DevOps, and cloud-native technologies. Thank you for taking the time to get to know me, and I look forward to connecting!</p>
-<!-- - 🔭 I’m currently working on [a tours and travel web app development project](https://github.com/jahid114/letsgoTourApi) -->
+<p style="text-align: justify;">
+I’m a software engineer with <strong>3+ years</strong> of experience designing and delivering enterprise and SaaS solutions across EdTech, fashion tech, ERP, and business domains. I specialise in building secure, scalable backend systems using <strong>Java, Spring Boot, Spring Data JPA, Spring Security</strong>, and relational & search databases (PostgreSQL, Elasticsearch). I also build full-stack applications with <strong>React / Node.js</strong> and have practical experience with Docker, Linux, CI/CD, and cloud-native deployment practices.
+</p>
+
+<p style="text-align: justify;">
+Recent roles include Software Engineer L2 at All Generation Tech and Senior Software Engineer (consultant) at Digiden IT, where I’ve led architecture and boilerplate work, mentored junior engineers, implemented production features (authentication/authorization, file upload with MinIO), and managed deployments. I enjoy solving backend challenges, designing APIs & data models, and improving delivery through automation and DevOps practices.
+</p>
+
+<h4>Core tech</h4>
+<ul>
+  <li><strong>Languages:</strong> Java, JavaScript, TypeScript, Python</li>
+  <li><strong>Backend:</strong> Spring Boot, Spring Data JPA, Spring Security, Express, NestJS</li>
+  <li><strong>Frontend:</strong> React, Next.js</li>
+  <li><strong>Datastores:</strong> PostgreSQL, MySQL, Elasticsearch, MongoDB</li>
+  <li><strong>DevOps & Tools:</strong> Docker, Linux, Coolify, Bitbucket/Git, CI/CD, MinIO, Postman</li>
+</ul>
+
+<h4>Highlights</h4>
+<ul>
+  <li>Architected and delivered backend & frontend boilerplates to speed project setup.</li>
+  <li>Built enterprise modules (CRM, inventory, order & supplier platforms) and search/analytics using Elasticsearch.</li>
+  <li>Mentored interns and junior engineers; performed code reviews and led feature delivery end-to-end.</li>
+  <li>Managed deployments and server administration with Docker and Linux; actively learning cloud-native and Kubernetes practices.</li>
+</ul>
+
+<p><strong>Open to:</strong> Remote backend / Full-Stack roles focused on Java/Spring, cloud-native applications, and technical leadership.</p>
 
 - 📫 How to reach me **jahidctgcse@gmail.com**
 
