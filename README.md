@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer — Backend & Full-stack | Java · Spring Boot · Cloud & DevOps</h3>
 
 <p style="text-align: justify;">
-I’m a software engineer with <strong>3+ years</strong> of experience designing and delivering enterprise and SaaS solutions across EdTech, fashion tech, ERP, and business domains. I specialise in building secure, scalable backend systems using <strong>Java, Spring Boot, Spring Data JPA, Spring Security</strong>, and relational & search databases (PostgreSQL, Elasticsearch). I also build full-stack applications with <strong>React / Node.js</strong> and have practical experience with Docker, Linux, CI/CD, and cloud-native deployment practices.
+I’m a software engineer with <strong>4 years</strong> of experience designing and delivering enterprise and SaaS solutions across EdTech, fashion tech, ERP, and business domains. I specialise in building secure, scalable backend systems using <strong>Java, Spring Boot, Spring Data JPA, Spring Security</strong>, and relational & search databases (PostgreSQL, Elasticsearch). I also build full-stack applications with <strong>React / Node.js</strong> and have practical experience with Docker, Linux, CI/CD, and cloud-native deployment practices.
 </p>
 
 <p style="text-align: justify;">
